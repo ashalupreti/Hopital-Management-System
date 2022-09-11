@@ -1,3 +1,4 @@
 # Hopital-Management-System
+## OUTPUT:
 
-## Check it out here: https://ashalupreti.github.io/Hopital-Management-System/
+![Screenshot (231)](https://user-images.githubusercontent.com/90265701/189528527-945f1245-09f9-40c0-823f-ef333705d9e2.png)
